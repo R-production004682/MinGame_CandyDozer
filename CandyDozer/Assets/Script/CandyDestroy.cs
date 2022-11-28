@@ -10,7 +10,8 @@ public class CandyDestroy : MonoBehaviour
     {
        if(candy.gameObject.tag == tagName)
        {
-            Destroy(candy.gameObject);
+            Destroy(candy.
+                gameObject);
        }
     }
 }
